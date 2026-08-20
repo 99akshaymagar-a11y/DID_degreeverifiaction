@@ -7,7 +7,11 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0"
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "backend": "npm --prefix backend run dev",
+    "blockchain": "npm --prefix backend run blockchain",
+    "start-all": "npx -y concurrently --kill-others \"npm run dev\" \"npm run backend\" \"npm run blockchain\"",
+    "share": "npx -y concurrently --kill-others \"npm run dev -- --host 0.0.0.0\" \"npm run backend\" \"npm run blockchain\""
   },
   "dependencies": {
     "react": "^18.2.0",

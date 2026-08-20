@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+backend/db/*.sqlite
+backend/cache/
+backend/artifacts/
+backend/db/ipfs_mock/*.json
+*.zip

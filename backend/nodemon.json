@@ -1,0 +1,8 @@
+{
+  "ignore": [
+    "db/*",
+    "db/**/*.sqlite",
+    "db/**/*.json",
+    "db/ipfs_mock/*"
+  ]
+}

@@ -1,0 +1,61 @@
+Name,RollNo,Dept,CGPA,Year,Email,ABC ID
+Aarav Sharma,CSE26101,ECE,7.0,2026,aaravsharma@gmail.com,ABC-261-000-101
+Ananya Gupta,CSE26102,CSE ICBT,7.04,2026,ananyagupta@gmail.com,ABC-261-000-102
+Amit Verma,CSE26103,CSE ICBT,7.09,2026,amitverma@gmail.com,ABC-261-000-103
+Neha Joshi,CSE26104,CSE ICBT,7.13,2026,nehajoshi@gmail.com,ABC-261-000-104
+Rohan Nair,CSE26105,ECE,7.17,2026,rohannair@gmail.com,ABC-261-000-105
+Jyoti Sen,CSE26106,CSE ICBT,7.21,2026,jyotisen@gmail.com,ABC-261-000-106
+Rahul Kulkarni,CSE26107,CSE ICBT,7.26,2026,rahulkulkarni@gmail.com,ABC-261-000-107
+Karan Mehta,CSE26108,CSE ICBT,7.3,2026,karanmehta@gmail.com,ABC-261-000-108
+Sneha Deshmukh,CSE26109,ECE,7.34,2026,snehadeshmukh@gmail.com,ABC-261-000-109
+Siddharth Singh,CSE26110,CSE ICBT,7.39,2026,siddharthsingh@gmail.com,ABC-261-000-110
+Ishaan Chawla,CSE26111,CSE ICBT,7.43,2026,ishaanchawla@gmail.com,ABC-261-000-111
+Diya Bose,CSE26112,CSE ICBT,7.47,2026,diyabose@gmail.com,ABC-261-000-112
+Arjun Dutta,CSE26113,ECE,7.52,2026,arjundutta@gmail.com,ABC-261-000-113
+Pooja Patil,CSE26114,CSE ICBT,7.56,2026,poojapatil@gmail.com,ABC-261-000-114
+Aditya Patel,CSE26115,CSE ICBT,7.6,2026,adityapatel@gmail.com,ABC-261-000-115
+Shruti Mishra,CSE26116,CSE ICBT,7.64,2026,shrutimishra@gmail.com,ABC-261-000-116
+Kabir Rao,CSE26117,ECE,7.69,2026,kabirrao@gmail.com,ABC-261-000-117
+Tanvi Reddy,CSE26118,CSE ICBT,7.73,2026,tanvireddy@gmail.com,ABC-261-000-118
+Yash Pillai,CSE26119,CSE ICBT,7.77,2026,yashpillai@gmail.com,ABC-261-000-119
+Riya Choudhury,CSE26120,CSE ICBT,7.82,2026,riyachoudhury@gmail.com,ABC-261-000-120
+Vikram Sharma,CSE26121,ECE,7.86,2026,vikramsharma@gmail.com,ABC-261-000-121
+Meera Gupta,CSE26122,CSE ICBT,7.9,2026,meeragupta@gmail.com,ABC-261-000-122
+Ravi Verma,CSE26123,CSE ICBT,7.95,2026,raviverma@gmail.com,ABC-261-000-123
+Kriti Joshi,CSE26124,CSE ICBT,7.99,2026,kritijoshi@gmail.com,ABC-261-000-124
+Manish Nair,CSE26125,ECE,8.03,2026,manishnair@gmail.com,ABC-261-000-125
+Kiran Sen,CSE26126,CSE ICBT,8.07,2026,kiransen@gmail.com,ABC-261-000-126
+Sanjay Kulkarni,CSE26127,CSE ICBT,8.12,2026,sanjaykulkarni@gmail.com,ABC-261-000-127
+Payal Mehta,CSE26128,CSE ICBT,8.16,2026,payalmehta@gmail.com,ABC-261-000-128
+Deepak Deshmukh,CSE26129,ECE,8.2,2026,deepakdeshmukh@gmail.com,ABC-261-000-129
+Sapna Singh,CSE26130,CSE ICBT,8.25,2026,sapnasingh@gmail.com,ABC-261-000-130
+Aarav Chawla,CSE26131,CSE ICBT,8.29,2026,aaravchawla@gmail.com,ABC-261-000-131
+Ananya Bose,CSE26132,CSE ICBT,8.33,2026,ananyabose@gmail.com,ABC-261-000-132
+Amit Dutta,CSE26133,ECE,8.38,2026,amitdutta@gmail.com,ABC-261-000-133
+Neha Patil,CSE26134,CSE ICBT,8.42,2026,nehapatil@gmail.com,ABC-261-000-134
+Rohan Patel,CSE26135,CSE ICBT,8.46,2026,rohanpatel@gmail.com,ABC-261-000-135
+Jyoti Mishra,CSE26136,CSE ICBT,8.5,2026,jyotimishra@gmail.com,ABC-261-000-136
+Rahul Rao,CSE26137,ECE,8.55,2026,rahulrao@gmail.com,ABC-261-000-137
+Karan Reddy,CSE26138,CSE ICBT,8.59,2026,karanreddy@gmail.com,ABC-261-000-138
+Sneha Pillai,CSE26139,CSE ICBT,8.63,2026,snehapillai@gmail.com,ABC-261-000-139
+Siddharth Choudhury,CSE26140,CSE ICBT,8.68,2026,siddharthchoudhury@gmail.com,ABC-261-000-140
+Ishaan Sharma,CSE26141,ECE,8.72,2026,ishaansharma@gmail.com,ABC-261-000-141
+Diya Gupta,CSE26142,CSE ICBT,8.76,2026,diyagupta@gmail.com,ABC-261-000-142
+Arjun Verma,CSE26143,CSE ICBT,8.81,2026,arjunverma@gmail.com,ABC-261-000-143
+Pooja Joshi,CSE26144,CSE ICBT,8.85,2026,poojajoshi@gmail.com,ABC-261-000-144
+Aditya Nair,CSE26145,ECE,8.89,2026,adityanair@gmail.com,ABC-261-000-145
+Shruti Sen,CSE26146,CSE ICBT,8.94,2026,shrutisen@gmail.com,ABC-261-000-146
+Kabir Kulkarni,CSE26147,CSE ICBT,8.98,2026,kabirkulkarni@gmail.com,ABC-261-000-147
+Tanvi Mehta,CSE26148,CSE ICBT,9.02,2026,tanvimehta@gmail.com,ABC-261-000-148
+Yash Deshmukh,CSE26149,ECE,9.06,2026,yashdeshmukh@gmail.com,ABC-261-000-149
+Riya Singh,CSE26150,CSE ICBT,9.11,2026,riyasingh@gmail.com,ABC-261-000-150
+Vikram Chawla,CSE26151,CSE ICBT,9.15,2026,vikramchawla@gmail.com,ABC-261-000-151
+Meera Bose,CSE26152,CSE ICBT,9.19,2026,meerabose@gmail.com,ABC-261-000-152
+Ravi Dutta,CSE26153,ECE,9.24,2026,ravidutta@gmail.com,ABC-261-000-153
+Kriti Patil,CSE26154,CSE ICBT,9.28,2026,kritipatil@gmail.com,ABC-261-000-154
+Manish Patel,CSE26155,CSE ICBT,9.32,2026,manishpatel@gmail.com,ABC-261-000-155
+Kiran Mishra,CSE26156,CSE ICBT,9.37,2026,kiranmishra@gmail.com,ABC-261-000-156
+Sanjay Rao,CSE26157,ECE,9.41,2026,sanjayrao@gmail.com,ABC-261-000-157
+Payal Reddy,CSE26158,CSE ICBT,9.45,2026,payalreddy@gmail.com,ABC-261-000-158
+Deepak Pillai,CSE26159,CSE ICBT,9.49,2026,deepakpillai@gmail.com,ABC-261-000-159
+Sapna Choudhury,CSE26160,CSE ICBT,9.54,2026,sapnachoudhury@gmail.com,ABC-261-000-160
